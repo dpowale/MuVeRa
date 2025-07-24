@@ -8,7 +8,7 @@ from typing import List, Dict, Any
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Import the MuVeRA classes (assuming they're in a separate file)
+# Import the MuVeRA classes 
 # from muvera import MuVeRA, SearchResult
 
 def generate_mock_embeddings(num_vectors: int, embedding_dim: int, 
